@@ -1,5 +1,8 @@
 # EURI AI — Quick Notes
 
+documentation  refer: euri ai models documentation: 
+https://docs.euri.ai/quickstart
+
 **What it is:** EURI (by Euron) is an **OpenAI-compatible API gateway**. One API key + one base URL gives you access to 40+ models from OpenAI, Google, Anthropic, Meta, Groq, Sarvam, etc. If you already know the OpenAI SDK, you already know EURI — just swap the `base_url` and `api_key`.
 
 **Base URL:**
