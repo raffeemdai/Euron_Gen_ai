@@ -1,5 +1,8 @@
 # FastAPI with Python — Class Notes & Practice Examples
 
+https://euron.one/learn/86cf35e7-2458-4d84-a197-a9f1a77e2f69?tab=Overview&activeLectureId=36a2b33c-3233-43d8-8c70-960ff023fd48
+9th NOv2025 class of Genai bootcamp2.0
+
 *Based on a hands-on FastAPI session covering setup, GET/POST requests, path & query parameters, Pydantic validation, and exposing a local API to the internet with ngrok.*
 
 ---
