@@ -457,6 +457,16 @@ FastAPI also supports `@app.delete("/route")`. Try creating a DELETE endpoint `/
 
 ### Exercise 9 — Persisting to a file (stretch goal)
 Modify the `add_student_new_value` POST endpoint so that, in addition to updating the in-memory dictionary, it also writes the full `students` dictionary to a `students.json` file on disk using Python's `json` module. Restart your server and confirm the file's contents are still there (even though the in-memory dictionary resets).
+---
+
+# CRUD Summary
+
+| Operation | HTTP Method |
+|-----------|------------|
+| Create | POST |
+| Read | GET |
+| Update | PUT |
+| Delete | DELETE |
 
 ---
 
